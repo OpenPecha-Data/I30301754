@@ -1,0 +1,28 @@
+id: I30301754
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:37:39.091074+00:00
+last_modified: 2022-12-15 07:37:39.091078+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-05-03T06:51:41.225Z'
+  creationid: dolma
+  eft-text-id: UT22084-061-014
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_194-The_Sutra_of_Jayamati-v1
+bases:
+  0DEA:
+    source_metadata: null
+    order: 1
+    base_file: 0DEA.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
